@@ -1,6 +1,6 @@
 {
   "name": "local-currency-symbol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility package to map currency codes to their symbols and handle currency symbol positioning based on locale",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
