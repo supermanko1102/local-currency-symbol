@@ -1,0 +1,41 @@
+{
+  "name": "local-currency-symbol",
+  "version": "1.0.0",
+  "description": "A utility package to map currency codes to their symbols and handle currency symbol positioning based on locale",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "currency",
+    "symbol",
+    "localization",
+    "i18n",
+    "internationalization",
+    "money",
+    "formatting",
+    "currency-symbol",
+    "exchange",
+    "finance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supermanko1102/local-currency-symbol"
+  },
+  "bugs": {
+    "url": "https://github.com/supermanko1102/local-currency-symbol/issues"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
